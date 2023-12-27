@@ -1,0 +1,4 @@
+-p ../source
+-m Test
+-hl out.hl
+# you need raylib.hdll in the folder you run out.hl
